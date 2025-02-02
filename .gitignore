@@ -1,0 +1,8 @@
+# Environment variables
+.env
+
+# Videos
+videos/*
+
+__pycache__/
+*.pyc
